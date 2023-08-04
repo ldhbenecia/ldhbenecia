@@ -1,9 +1,11 @@
 # 임동혁 *Dong Hyeok Lim*  
-Wanna be a front-end developer
+Wanna be a Front-end developer
 
-[![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
+[![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 
+ 
+#### 네이버 커넥트재단 부스트캠프 웹・모바일 8기 챌린지 수료 <sub><sup>(2023.07.10 ~ 2023.08.04)</sup></sub> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fldhbenecia&count_bg=%232A1764&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
