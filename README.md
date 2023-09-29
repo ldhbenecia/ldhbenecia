@@ -1,6 +1,6 @@
 # 임동혁 *Dong Hyeok Lim*  
 
-
+<!--
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 
@@ -8,11 +8,12 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
+-->
  
 <br/>
 
 **네이버 커넥트재단 부스트캠프 웹・모바일 8기 챌린지 수료** <sub><sup>(2023.07.10 ~ 2023.08.04)</sup></sub>   
-**네이버 커넥트재단 부스트캠프 웹・모바일 8기 멤버십** <sub><sup>(2023.08.28 ~ 2023.12.15)</sup></sub> 
+**네이버 커넥트재단 부스트캠프 웹・모바일 8기 멤버십(백엔드 심화 과정)** <sub><sup>(2023.08.28 ~ 2023.12.15)</sup></sub> 
 
 <br/>
 
