@@ -2,8 +2,7 @@
  
 ### BackEnd Developer
 
-NAVER Connect Foundation BoostCamp Web·Mobile 8th Challenge <sub><sup>(2023.07.10 ~ 2023.08.04)</sup></sub> <br />
-NAVER Connect Foundation BoostCamp Web·Mobile 8th MemberShip <sub><sup>(2023.08.28 ~ 2023.12.15)</sup></sub> <br />
+NAVER Connect Foundation BoostCamp Web·Mobile 8th <sub><sup>(2023.07.10 ~ 2023.12.15)</sup></sub> <br />
 Hankuk University of Foreign Studies Computer & Electronic Systems Engineering <sub><sup>(2019.03 ~ )</sup></sub> <br />
 
 <br/>
