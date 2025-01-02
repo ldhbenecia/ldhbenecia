@@ -4,7 +4,7 @@
 
 MaiT(Medical AI Team) Backend Developer Intern <sub>(2025.01.02 ~ )</sub> <br />
 Naver Connect Foundation BoostCamp Web·Mobile 8th <sub>(2023.07.10 ~ 2023.12.15)</sub> <br />
-Hankuk University of Foreign Studies Computer & Electronic Systems Engineering <sub>2019.03 ~ )</sub> <br />
+Hankuk University of Foreign Studies Computer & Electronic Systems Engineering <sub>(2019.03 ~ )</sub> <br />
 
 <br/>
 
