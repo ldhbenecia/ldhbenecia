@@ -1,9 +1,10 @@
 # 임동혁 *Dong Hyeok Lim* :crescent_moon: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fldhbenecia&count_bg=%232A1764&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
-### BackEnd Developer
+### Backend Developer
 
-NAVER Connect Foundation BoostCamp Web·Mobile 8th <sub><sup>(2023.07.10 ~ 2023.12.15)</sup></sub> <br />
-Hankuk University of Foreign Studies Computer & Electronic Systems Engineering <sub><sup>(2019.03 ~ )</sup></sub> <br />
+MaiT(Medical AI Team) Backend Developer Intern <sub>(2025.01.02 ~ )</sub> <br />
+Naver Connect Foundation BoostCamp Web·Mobile 8th <sub>(2023.07.10 ~ 2023.12.15)</sub> <br />
+Hankuk University of Foreign Studies Computer & Electronic Systems Engineering <sub>2019.03 ~ )</sub> <br />
 
 <br/>
 
