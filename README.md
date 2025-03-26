@@ -1,4 +1,4 @@
-# 임동혁 *Dong Hyeok Lim* :crescent_moon: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fldhbenecia&count_bg=%232A1764&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 임동혁 *Dong Hyeok Lim*
  
 ### Backend Developer
 
@@ -8,8 +8,11 @@ Hankuk University of Foreign Studies Computer & Electronic Systems Engineering <
 
 <br/>
 
+### 🛠️ Projects
 
-![LdhBenecia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldhbenecia&show_icons=false&theme=dark&hide=stars&count_private=truee)
+#### [Mono Mail](https://monomail.co) — Backend Developer  
+> *Minimal and focused. Work seamlessly.*  
+> Mono Mail is the next-generation email platform for professionals—built for those who value simplicity and efficiency.
 
 <!--
 **ldhbenecia/ldhbenecia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
