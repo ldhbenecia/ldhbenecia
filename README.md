@@ -2,9 +2,9 @@
 
 ### **Server Developer**
 
-**Mono Mail** Server Developer(Founding Team, Pre-incorporation) *(2025.02 ~ 2025.06.30)*  
-**MaiT (Medical AI Team)** Software Engineer Intern *(2025.01.02 ~ 2025.06.30)*  
-**Naver Connect Foundation BoostCamp Web·Mobile 8th** *(2023.07.10 ~ 2023.12.15)*  
+**Mono Mail** Server Developer(Founding Team, Pre-incorporation) *(2025.02 ~ 2025.06)*  
+**MaiT (Medical AI Team)** Software Engineer Intern *(2025.01 ~ 2025.06)*  
+**Naver Connect Foundation BoostCamp Web·Mobile 8th** *(2023.07 ~ 2023.12)*  
 **Hankuk University of Foreign Studies** Computer & Electronic Systems Engineering *(2019.03 ~ Present)* 
 
 ---
