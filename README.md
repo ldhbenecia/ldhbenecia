@@ -28,4 +28,5 @@
 ### Writing & Knowledge Sharing
 > I document what I learn — from backend engineering to system design — and share insights on Velog.
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ldhbenecia&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ldhbenecia&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=ldhbenecia)
+
