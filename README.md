@@ -23,3 +23,9 @@
 #### <img src="https://monomail.co/favicon.png" width="32" height="32" alt="Mono logo" /> [**Mono Mail**](https://monomail.co) — **Server Developer(Founding Team, Pre-incorporation)**
 > *Minimal and focused. Work seamlessly.*  
 > Mono Mail is the next-generation email platform for professionals—built for those who value simplicity and efficiency.
+
+---
+### Writing & Knowledge Sharing
+> I document what I learn — from backend engineering to system design — and share insights on Velog.
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ldhbenecia&color=dark)](https://github.com/eungyeole/velog-readme-stats)
