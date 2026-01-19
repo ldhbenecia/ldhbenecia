@@ -9,7 +9,7 @@
 **Mono Mail** - Server Developer(Founding Team, Pre-incorporation) *(2025.02 ~ 2025.06)*  
 **MaiT (Medical AI Team)** - Software Engineer Intern *(2025.01 ~ 2025.06)*  
 **Naver Connect Foundation BoostCamp Web·Mobile 8th** - Backend Advanced Course *(2023.07 ~ 2023.12)*  
-**Hankuk University of Foreign Studies** - Computer & Electronic Systems Engineering *(2019.03 ~ Present)* 
+**Hankuk University of Foreign Studies** - Computer and Electronic System Engineering *(2019.03 ~ 2026.02)* 
 
 #### Currently Learning & Exploring
 
